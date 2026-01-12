@@ -1,0 +1,8 @@
+{
+  "expo": {
+    "name": "MendilFlow",
+    "slug": "MendilFlow",
+    "version": "1.0.0",
+    "assetBundlePatterns": ["**/*"]
+  }
+}
